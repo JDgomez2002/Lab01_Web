@@ -125,3 +125,10 @@ This is the attic. The only exit is stairs that lead down.
 There is a square brick here which feels like clay.
 A large coil of rope is lying in the corner.
 On a table is a nasty-looking knife.
+
+# 03) ¿Cuál es el output de éste programa de Brainf*ck (20 puntos)
+
+.bf ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+[bf] Executing as Brainfuck code...
+Hello World!
+
